@@ -1,6 +1,6 @@
 <h1 align="center"><a href="#">V·2</a></h1>
 <p align="center">
-3D game engine/framework in C.<br/>
+3D game engine/framework in C.
 <br/>
 <img src="https://i.imgur.com/AIEIWDk.png"              /><!--cubemap--><br/>
 <img src="https://i.imgur.com/ipAYky8.png" width="204px"/><!--sprite-->
@@ -12,6 +12,7 @@
 <img src="https://i.imgur.com/24oKvLj.png" width="204px"/><!--shadertoy-->
 <img src="https://i.imgur.com/F9ix0Zf.png" width="204px"/><!--shadows-->
 </p>
+<h1 align="center">Moved to https://github.com/r-lyeh/v3</h1>
 
 ## About
 - 3D game engine v2, written in C.
@@ -180,3 +181,4 @@ Still looking for alternatives? Get some:
 
 What, When, Where, Why, How, Which, Who, and Whom
 -->
+
